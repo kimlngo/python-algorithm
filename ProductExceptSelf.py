@@ -3,10 +3,6 @@ def product_except_self(nums):
     prefix = 1
     suffix = 1
 
-    # result = []
-    # for _ in nums:
-    #     result.append(1)
-
     result = [1] * len(nums)
     
     #pass 1
